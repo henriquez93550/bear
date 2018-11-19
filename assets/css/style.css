@@ -1,0 +1,32 @@
+#parallax-image {
+    background-image: url("http://rebootgaminglv.com/wp-content/uploads/reboot-videogaminglounge-lasvegas-07.jpg");
+    height: 500px;
+    margin-bottom: 50px;
+    /* Parallax Effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#parallax-images {
+    background-image: url("https://cdn-images-1.medium.com/max/1200/0*1yGJPwNHuhDZLyLq.jpg");
+    height: 500px;
+    margin-bottom: 50px;
+    /* Parallax Effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#gameimage {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-SjkD4vGDJVrXBaRkh1GQM5koqcnDz4axwTT0ResYGUXxwON);
+    height: 500px;
+    margin-bottom: 50px;
+    background-position: center;
+    background-repeat: repeat-x;
+}
